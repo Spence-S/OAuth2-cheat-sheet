@@ -8,6 +8,7 @@ Resources and References I've found:
 * https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
 * https://oauth.net/2/
 * https://aaronparecki.com/oauth-2-simplified/
+* https://alexbilbie.com/guide-to-oauth-2-grants/
 
 ###Oauth2 Steps: For Grant type auth code
 
@@ -30,3 +31,11 @@ Resources and References I've found:
 5. The application requests the resource from the resource server (API) and presents the access token for authentication
 
 6. If the access token is valid, the resource server (API) serves the resource to the application
+
+
+## OAuth2 Grant Types 
+1. Auth Code
+2. Implicit
+3. User credentials 
+4. App credentials
+5. Refresh Token
