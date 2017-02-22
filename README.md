@@ -1,10 +1,13 @@
 # OAuth2-cheat-sheet
 
 Resources and References I've found: 
-https://stormpath.com/blog/secure-your-rest-api-right-way
-https://stormpath.com/blog/token-auth-spa
-https://stormpath.com/blog/the-problem-with-api-authentication-in-express
-https://blog.risingstack.com/web-authentication-methods-explained/
+* https://stormpath.com/blog/secure-your-rest-api-right-way
+* https://stormpath.com/blog/token-auth-spa
+* https://stormpath.com/blog/the-problem-with-api-authentication-in-express
+* https://blog.risingstack.com/web-authentication-methods-explained/
+* https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+* https://oauth.net/2/
+* https://aaronparecki.com/oauth-2-simplified/
 
 ###Oauth2 Steps: For Grant type auth code
 
